@@ -9,6 +9,7 @@
 "  for MS-DOS and Win32:  $VIM\_vimrc
 "	    for OpenVMS:  sys$login:.vimrc
 """
+
 set expandtab
 set tabstop=4
 
