@@ -11,6 +11,7 @@
 """
 set expandtab
 set tabstop=4
+
 color trogdor
 set number
 " When started as "evim", evim.vim will already have done these settings.
