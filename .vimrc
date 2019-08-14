@@ -13,7 +13,12 @@
 set expandtab
 set tabstop=4
 
-color trogdor
+
+"git clone https://github.com/morhetz/gruvbox.git ~/.vim/pack/default/start/gruvbox
+set background=dark    " Setting dark mode
+colorscheme gruvbox
+
+
 set number
 " When started as "evim", evim.vim will already have done these settings.
 if v:progname =~? "evim"
